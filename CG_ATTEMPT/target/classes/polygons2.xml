@@ -1,0 +1,33 @@
+<polygons>
+    <polygon>
+        <point x="-30" y="-20"></point>
+        <point x="-25" y="-15"></point>
+        <point x="-28" y="-10"></point>
+        <point x="-35" y="-12"></point>
+        <point x="29" y="-18"></point>
+        <point x="-30" y="-20"></point>
+    </polygon>
+    <polygon>
+        <point x="-10" y="20"></point>
+        <point x="-5" y="25"></point>
+        <point x="-7" y="30"></point>
+        <point x="-15" y="28"></point>
+        <point x="-10" y="20"></point>
+    </polygon>
+    <polygon>
+        <point x="20" y="10"></point>
+        <point x="25" y="15"></point>
+        <point x="22" y="18"></point>
+        <point x="18" y="16"></point>
+        <point x="20" y="10"></point>
+        <point x="16" y="13"></point>
+    </polygon>
+    <polygon>
+        <point x="5" y="30"></point>
+        <point x="10" y="35"></point>
+        <point x="8" y="38"></point>
+        <point x="3" y="36"></point>
+        <point x="5" y="30"></point>
+    </polygon>
+
+</polygons>

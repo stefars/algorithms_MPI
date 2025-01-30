@@ -1,0 +1,72 @@
+<polygons>
+    <polygon>
+        <point x="-35" y="5"></point>
+        <point x="-32.25" y="20"></point>
+        <point x="-23" y="14"></point>
+        <point x="-24" y="7"></point>
+        <point x="-35" y="5"></point>
+    </polygon>
+    <polygon>
+        <point x="-13" y="-3"></point>
+        <point x="-5" y="-9"></point>
+        <point x="-7" y="-20"></point>
+        <point x="-18" y="-25"></point>
+        <point x="-25" y="-21"></point>
+        <point x="-25" y="-10"></point>
+        <point x="-13" y="-3"></point>
+    </polygon>
+    <polygon>
+        <point x="-15" y="20"></point>
+        <point x="-10" y="25"></point>
+        <point x="0" y="25"></point>
+        <point x="5" y="20"></point>
+        <point x="-1" y="15"></point>
+        <point x="-9" y="15"></point>
+        <point x="-15" y="20"></point>
+
+    </polygon>
+
+    <polygon>
+        <point x="7" y="-8"></point>
+        <point x="25" y="-8"></point>
+        <point x="25" y="15"></point>
+        <point x="20" y="15"></point>
+        <point x="20" y="0"></point>
+        <point x="8" y="0"></point>
+        <point x="7" y="-8"></point>
+    </polygon>
+
+    <polygon>
+        <point x="-6" y="9"></point>
+        <point x="-8" y="0"></point>
+        <point x="-3" y="-2"></point>
+        <point x="-6" y="9"></point>
+    </polygon>
+
+
+    <polygon>
+        <point x="11.8" y="31.5"></point>
+        <point x="18" y="26"></point>
+        <point x="31" y="24"></point>
+        <point x="34" y="33"></point>
+        <point x="24" y="34"></point>
+        <point x="11.8" y="31.5"></point>
+
+    </polygon>
+
+    <polygon>
+        <point x="3" y="-33"></point>
+        <point x="4" y="-29"></point>
+        <point x="7" y="-25"></point>
+        <point x="9" y="-23"></point>
+        <point x="13" y="-21"></point>
+        <point x="15" y="-20.5"></point>
+        <point x="20" y="-20"></point>
+        <point x="24" y="-19.5"></point>
+        <point x="28" y="-20"></point>
+        <point x="32" y="-21"></point>
+        <point x="30" y="-35"></point>
+        <point x="15" y="-20"></point>
+        <point x="3" y="-33"></point>
+    </polygon>
+</polygons>

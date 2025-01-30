@@ -1,0 +1,22 @@
+<polygons>
+    <polygon>
+        <point x="10" y="10"></point>
+        <point x="5" y="-3"></point>
+        <point x="-7" y="-5"></point>
+    </polygon>
+    <polygon>
+        <point x="-15" y = "-2"></point>
+        <point x="-17" y = "3"></point>
+        <point x="-13" y = "2"></point>
+        <point x="-20" y = "1"></point>
+    </polygon>
+
+    <polygon>
+        <point x ="18" y="20"></point>
+        <point x ="14" y="15"></point>
+        <point x ="30" y="7"></point>
+        <point x ="26" y="26"></point>
+        <point x = "21" y = "24" ></point>
+        <point x ="20" y="20"></point>
+    </polygon>
+</polygons>

@@ -1,0 +1,117 @@
+<polygons>
+    <polygon>
+        <point x="1" y="5"></point>
+        <point x="6" y="5"></point>
+        <point x="6" y="10"></point>
+        <point x="1" y="10"></point>
+        <point x="1" y="5"></point>
+    </polygon>
+    <polygon>
+        <point x="11" y="5"></point>
+        <point x="16" y="5"></point>
+        <point x="16" y="10"></point>
+        <point x="11" y="10"></point>
+        <point x="11" y="5"></point>
+    </polygon>
+    <polygon>
+        <point x="21" y="5"></point>
+        <point x="26" y="5"></point>
+        <point x="26" y="10"></point>
+        <point x="21" y="10"></point>
+        <point x="21" y="5"></point>
+    </polygon>
+    <polygon>
+        <point x="31" y="5"></point>
+        <point x="36" y="5"></point>
+        <point x="36" y="10"></point>
+        <point x="31" y="10"></point>
+        <point x="31" y="5"></point>
+    </polygon>
+    <polygon>
+        <point x="0" y="-5"></point>
+        <point x="5" y="-5"></point>
+        <point x="5" y="0"></point>
+        <point x="0" y="0"></point>
+        <point x="0" y="-5"></point>
+    </polygon>
+    <polygon>
+        <point x="10" y="-5"></point>
+        <point x="15" y="-5"></point>
+        <point x="15" y="0"></point>
+        <point x="10" y="0"></point>
+        <point x="10" y="-5"></point>
+    </polygon>
+    <polygon>
+        <point x="20" y="-5"></point>
+        <point x="25" y="-5"></point>
+        <point x="25" y="0"></point>
+        <point x="20" y="0"></point>
+        <point x="20" y="-5"></point>
+    </polygon>
+    <polygon>
+        <point x="30" y="-5"></point>
+        <point x="35" y="-5"></point>
+        <point x="35" y="0"></point>
+        <point x="30" y="0"></point>
+        <point x="30" y="-5"></point>
+    </polygon>
+
+    <polygon>
+        <point x="0" y="15"></point>
+        <point x="5" y="15"></point>
+        <point x="5" y="20"></point>
+        <point x="0" y="20"></point>
+        <point x="0" y="15"></point>
+    </polygon>
+    <polygon>
+        <point x="10" y="15"></point>
+        <point x="15" y="15"></point>
+        <point x="15" y="20"></point>
+        <point x="10" y="20"></point>
+        <point x="10" y="15"></point>
+    </polygon>
+    <polygon>
+        <point x="20" y="15"></point>
+        <point x="25" y="15"></point>
+        <point x="25" y="20"></point>
+        <point x="20" y="20"></point>
+        <point x="20" y="15"></point>
+    </polygon>
+    <polygon>
+        <point x="30" y="15"></point>
+        <point x="35" y="15"></point>
+        <point x="35" y="20"></point>
+        <point x="30" y="20"></point>
+        <point x="30" y="15"></point>
+    </polygon>
+
+    <polygon>
+        <point x="1" y="25"></point>
+        <point x="6" y="25"></point>
+        <point x="6" y="30"></point>
+        <point x="1" y="30"></point>
+        <point x="1" y="25"></point>
+    </polygon>
+    <polygon>
+        <point x="11" y="25"></point>
+        <point x="16" y="25"></point>
+        <point x="16" y="30"></point>
+        <point x="11" y="30"></point>
+        <point x="11" y="25"></point>
+    </polygon>
+    <polygon>
+        <point x="21" y="25"></point>
+        <point x="26" y="25"></point>
+        <point x="26" y="30"></point>
+        <point x="21" y="30"></point>
+        <point x="21" y="25"></point>
+    </polygon>
+    <polygon>
+        <point x="31" y="25"></point>
+        <point x="36" y="25"></point>
+        <point x="36" y="30"></point>
+        <point x="31" y="30"></point>
+        <point x="31" y="25"></point>
+    </polygon>
+
+</polygons>
